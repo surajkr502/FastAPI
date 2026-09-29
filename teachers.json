@@ -1,0 +1,222 @@
+[
+  {
+    "id": "P001",
+    "name": "Shyam Kumar",
+    "role": "Teacher",
+    "subject": "Mathematics",
+    "city": "Ranchi",
+    "qualification": "M.Sc",
+    "experience": 5,
+    "class_teacher_of": "9th",
+    "email": "shyam@example.com"
+  },
+  {
+    "id": "P002",
+    "name": "Priya Sharma",
+    "role": "Teacher",
+    "subject": "English",
+    "city": "Patna",
+    "qualification": "M.A",
+    "experience": 7,
+    "class_teacher_of": "10th",
+    "email": "priya@example.com"
+  },
+  {
+    "id": "P003",
+    "name": "Rahul Verma",
+    "role": "Teacher",
+    "subject": "Science",
+    "city": "Bhopal",
+    "qualification": "M.Sc",
+    "experience": 6,
+    "class_teacher_of": "8th",
+    "email": "rahul@example.com"
+  },
+  {
+    "id": "P004",
+    "name": "Anjali Singh",
+    "role": "Teacher",
+    "subject": "Hindi",
+    "city": "Lucknow",
+    "qualification": "M.A",
+    "experience": 8,
+    "class_teacher_of": "7th",
+    "email": "anjali@example.com"
+  },
+  {
+    "id": "P005",
+    "name": "Amit Kumar",
+    "role": "Teacher",
+    "subject": "Physics",
+    "city": "Ranchi",
+    "qualification": "M.Sc",
+    "experience": 4,
+    "class_teacher_of": "12th",
+    "email": "amit@example.com"
+  },
+  {
+    "id": "P006",
+    "name": "Neha Gupta",
+    "role": "Teacher",
+    "subject": "Chemistry",
+    "city": "Delhi",
+    "qualification": "M.Sc",
+    "experience": 9,
+    "class_teacher_of": "11th",
+    "email": "neha@example.com"
+  },
+  {
+    "id": "P007",
+    "name": "Rohit Singh",
+    "role": "Teacher",
+    "subject": "Computer Science",
+    "city": "Jamshedpur",
+    "qualification": "M.Tech",
+    "experience": 5,
+    "class_teacher_of": "10th",
+    "email": "rohit@example.com"
+  },
+  {
+    "id": "P008",
+    "name": "Pooja Kumari",
+    "role": "Teacher",
+    "subject": "Biology",
+    "city": "Gaya",
+    "qualification": "M.Sc",
+    "experience": 6,
+    "class_teacher_of": "11th",
+    "email": "pooja@example.com"
+  },
+  {
+    "id": "P009",
+    "name": "Sandeep Sharma",
+    "role": "Teacher",
+    "subject": "Social Science",
+    "city": "Jaipur",
+    "qualification": "M.A",
+    "experience": 10,
+    "class_teacher_of": "9th",
+    "email": "sandeep@example.com"
+  },
+  {
+    "id": "P010",
+    "name": "Riya Verma",
+    "role": "Teacher",
+    "subject": "Mathematics",
+    "city": "Indore",
+    "qualification": "M.Sc",
+    "experience": 3,
+    "class_teacher_of": "6th",
+    "email": "riya@example.com"
+  },
+  {
+    "id": "P011",
+    "name": "Manish Gupta",
+    "role": "Teacher",
+    "subject": "Geography",
+    "city": "Delhi",
+    "qualification": "M.A",
+    "experience": 7,
+    "class_teacher_of": "8th",
+    "email": "manish@example.com"
+  },
+  {
+    "id": "P012",
+    "name": "Kajal Singh",
+    "role": "Teacher",
+    "subject": "History",
+    "city": "Ranchi",
+    "qualification": "M.A",
+    "experience": 5,
+    "class_teacher_of": "7th",
+    "email": "kajal@example.com"
+  },
+  {
+    "id": "P013",
+    "name": "Deepak Kumar",
+    "role": "Teacher",
+    "subject": "Physical Education",
+    "city": "Dhanbad",
+    "qualification": "B.P.Ed",
+    "experience": 8,
+    "class_teacher_of": "6th",
+    "email": "deepak@example.com"
+  },
+  {
+    "id": "P014",
+    "name": "Sneha Patel",
+    "role": "Teacher",
+    "subject": "Computer Science",
+    "city": "Ahmedabad",
+    "qualification": "MCA",
+    "experience": 4,
+    "class_teacher_of": "9th",
+    "email": "sneha@example.com"
+  },
+  {
+    "id": "P015",
+    "name": "Arjun Sharma",
+    "role": "Teacher",
+    "subject": "Mathematics",
+    "city": "Varanasi",
+    "qualification": "M.Sc",
+    "experience": 11,
+    "class_teacher_of": "12th",
+    "email": "arjun@example.com"
+  },
+  {
+    "id": "P016",
+    "name": "Nisha Kumari",
+    "role": "Teacher",
+    "subject": "English",
+    "city": "Patna",
+    "qualification": "M.A",
+    "experience": 6,
+    "class_teacher_of": "5th",
+    "email": "nisha@example.com"
+  },
+  {
+    "id": "P017",
+    "name": "Karan Verma",
+    "role": "Teacher",
+    "subject": "Economics",
+    "city": "Bhopal",
+    "qualification": "M.Com",
+    "experience": 5,
+    "class_teacher_of": "12th",
+    "email": "karan@example.com"
+  },
+  {
+    "id": "P018",
+    "name": "Swati Sharma",
+    "role": "Teacher",
+    "subject": "Art",
+    "city": "Ranchi",
+    "qualification": "B.F.A",
+    "experience": 4,
+    "class_teacher_of": "5th",
+    "email": "swati@example.com"
+  },
+  {
+    "id": "P019",
+    "name": "Ajay Singh",
+    "role": "Teacher",
+    "subject": "Physics",
+    "city": "Bokaro",
+    "qualification": "M.Sc",
+    "experience": 9,
+    "class_teacher_of": "12th",
+    "email": "ajay@example.com"
+  },
+  {
+    "id": "P020",
+    "name": "Meena Kumari",
+    "role": "Teacher",
+    "subject": "Hindi",
+    "city": "Gaya",
+    "qualification": "M.A",
+    "experience": 12,
+    "class_teacher_of": "10th",
+    "email": "meena@example.com"
+  }
+]
