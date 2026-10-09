@@ -1,6 +1,8 @@
 from pydantic import BaseModel, EmailStr, AnyUrl, Field, field_validator
 from typing import List, Dict, Optional, Annotated
 
+from models import Teacher, update_teacher_data
+
 class Patient(BaseModel):
 
     name: str
@@ -46,8 +48,8 @@ def update_patient_data(patient: Patient):
     print(patient.married)
     print('updated')
 
-patient_info = {'name':'nitish', 'email':'abc@icici.com', 'age': '30', 'weight': 75.2, 'married': True, 'allergies': ['pollen', 'dust'], 'contact_details':{'phone':'2353462'}}
+teacher_info = {'name':'suraj', 'email':'abc@icici.com', 'age': '22', 'weight': 75.2, 'married': False, 'allergies': ['pollen', 'dust'], 'contact_details':{'phone':'2353462'}}
 
-patient1 = Patient(**patient_info) # validation -> type coercion
+teacher1 = Teacher(**teacher_info) # validation -> type coercion
 
-update_patient_data(patient1)
+update_teacher_data(teacher1)
